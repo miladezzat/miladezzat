@@ -1,11 +1,11 @@
 
-###  Hi There 👋, I am [🤗 Milad E. Fahmy 😊](https://milad-ezzat.herokuapp.com/)
+###  Hi There 👋, I am [🤗 Milad E. Fahmy 😊](https://miladezzat.netlify.app/)
 ###### *Software Engineer*
 
-A Software Engineer with industry experience building web services. Specializing in Full Stack development with Node.js, Reactjs. 
+A Software Engineer with industry experience building web services. Specializing in Full Stack development with Node.js, Reactjs and MongoDB. 
 
 * Backend: NodeJS, PHP, Python.
-* Databases: Mongodb, Mysql.
+* Databases: Mongodb, Mysql, Elastic search.
 * Frontend: Reactjs, Bootstrap, HTML, SCSS, Javascript
 
 ### You can also find me on
