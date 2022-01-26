@@ -17,7 +17,7 @@ A Software Engineer with industry experience building web services. Specializing
 ### HTTP Status codes: [https://miladezzat.github.io](https://miladezzat.github.io)
 
 
-## State 😎
+## Stats 😎
 
 <div align="left">
 
