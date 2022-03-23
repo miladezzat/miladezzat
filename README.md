@@ -14,7 +14,7 @@ A Software Engineer with industry experience building web services. Specializing
 
 ### Blog post: [https://milad-ezzat.vercel.app/](https://milad-ezzat.vercel.app/)
 
-### HTTP Status codes: [https://miladezzat.github.io](https://miladezzat.github.io)
+### NodeJs Couse: [https://miladezzat.github.io](https://miladezzat.github.io)
 
 
 
