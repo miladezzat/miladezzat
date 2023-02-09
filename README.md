@@ -1,5 +1,5 @@
 
-###  Hi There 👋, I am [🤗 Milad Ezzat 😊](https://milad-ezzat.netlify.app/)
+###  Hi There 👋, I am 🤗 Milad Ezzat 😊
 
 ###### *Software Engineer*
 
@@ -47,6 +47,3 @@ A Software Engineer with industry experience building web services. Specializing
             alt="miladezzat's GitHub stats" width="420px" /></a> <a href="http://www.github.com/miladezzat"><img
             src="https://github-readme-streak-stats.herokuapp.com/?user=miladezzat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
             width="420px" /></a> </p>
-<a href="http://www.github.com/miladezzat"><img
-        src="https://activity-graph.herokuapp.com/graph?username=miladezzat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-        alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" /></a>
