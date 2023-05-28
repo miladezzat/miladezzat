@@ -41,6 +41,17 @@ A Software Engineer with industry experience building web services. Specializing
 
 ---
 
+### 🏆 Github trophies
+
+<p>
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=miladezzat&margin-w=15theme=dark)
+    
+</p>
+
+<hr>
+
+
 ### My GitHub Stats 😎
 <p aligh="left"> <a href="http://www.github.com/miladezzat"><img
             src="https://github-readme-stats.vercel.app/api?username=miladezzat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
