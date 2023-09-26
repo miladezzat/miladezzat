@@ -3,11 +3,16 @@
 
 ###### *Software Engineer*
 
-A Software Engineer with industry experience building web services. Specializing in Full Stack development with Node.js/NestJS, ReactJS/NextJS.
+Experienced, passionate, and self-motivated technical operations leader with a diverse history spanning every facet of software design, development, deployment, and maintenance.
 
-* Backend: NodeJS/NestJS, Python.
-* Databases: Mongodb, Mysql, Elastic search, Postgres.
+Most comfortable on the cutting edge, loves to learn and explore, and is truly inspired by today’s emerging technologies and methodologies. 
+
+You can say, A Software Engineer with industry experience building web services
+
+* Backend: NodeJS/NestJS, Python, GoLang
+* Databases: MongoDB, Mysql, Elastic Search, Postgres, DynamoDB.
 * Frontend: ReactJS/NextJS, Bootstrap, HTML/HTML5, SCSS, Javascript/ES6
+* DevOps: AWS services (EC2, Lambda function, SNS, SQS, EventBridge, Step Function),  CI/CD, Docker, Kubernetes, GCP.
 
 ### Find Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miladezzat/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miladezzat12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://milad-ezzat.herokuapp.com/)  
