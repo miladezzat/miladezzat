@@ -1,55 +1,73 @@
 
-###  Hi There 👋, Here is Milad
+# Hi There 👋, I'm Milad Ezzat
 
-###### *Software Engineer*
+<div align="center">
+  
+### 💻 Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-Experienced, passionate, and self-motivated technical operations leader with a diverse history spanning every facet of software design, development, deployment, and maintenance.
+*Passionate about building scalable web services and exploring cutting-edge technologies*
 
-Most comfortable on the cutting edge, loves to learn and explore, and is truly inspired by today’s emerging technologies and methodologies. 
-
-You can say, A Software Engineer with industry experience building web services
-
-* Backend: NodeJS/NestJS, Python, GoLang
-* Databases: MongoDB, Mysql, Elastic Search, Postgres, DynamoDB.
-* Frontend: ReactJS/NextJS, Bootstrap, HTML/HTML5, SCSS, Javascript/ES6
-* DevOps: AWS services (EC2, Lambda function, SNS, SQS, EventBridge, Step Function),  CI/CD, Docker, Kubernetes, GCP.
-
-### Find Me
-#### Blog Post: [https://milad-fahmy.vercel.app/](https://milad-fahmy.vercel.app/)
-#### NodeJs Course: [https://miladezzat.github.io](https://miladezzat.github.io)
-### Medium: [https://medium.com/@miladezzat](https://medium.com/@miladezzat)
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" style="margin-right:15px;" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="margin-right:15px;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="margin-right:15px;" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" style="margin-right:15px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" style="margin-right:15px;" alt="GCP" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png"  />
-
-<img align="left" style="margin-right:15px;" alt="K8" width="26px" src="https://kubernetes.io/images/favicon.png" />
-<img align="left" style="margin-right:15px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="margin-right:15px;" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" style="margin-right:15px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="margin-right:15px;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="margin-right:15px;" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" style="margin-right:15px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="margin-right:15px;" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" style="margin-right:15px;" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" style="margin-right:15px;" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+</div>
 
 ---
 
-<hr>
+## 🚀 About Me
 
+I'm an experienced software engineer with a diverse history spanning every facet of software design, development, deployment, and maintenance. I thrive on the cutting edge of technology, constantly learning and exploring emerging technologies and methodologies.
 
-### My GitHub Stats 😎
-<p aligh="left"> <a href="http://www.github.com/miladezzat"><img
-            src="https://github-readme-stats.vercel.app/api?username=miladezzat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-            alt="miladezzat's GitHub stats" width="420px" /></a> <a href="http://www.github.com/miladezzat"><img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=miladezzat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-            width="420px" /></a> </p>
+**Backend:** Node.js/NestJS, Python, GoLang  
+**Frontend:** React.js/Next.js, Bootstrap, HTML5, SCSS, JavaScript/ES6  
+**Databases:** MongoDB, MySQL, PostgreSQL, Elasticsearch, DynamoDB  
+**DevOps & Cloud:** AWS (EC2, Lambda, SNS, SQS, EventBridge, Step Functions), Docker, Kubernetes, GCP, CI/CD
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-milad--fahmy.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://milad-fahmy.vercel.app/)
+[![Node.js Course](https://img.shields.io/badge/Course-Node.js_Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://miladezzat.github.io)
+[![Medium](https://img.shields.io/badge/Medium-@miladezzat-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@miladezzat)
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="45" height="45" style="margin: 10px;"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miladezzat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=miladezzat&color=0891b2&style=flat-square)
+
+</div>
