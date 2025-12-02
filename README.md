@@ -134,7 +134,7 @@ const milad = {
 | **Client Success Rate** | 96% recommendations + 86% retention on Upwork |
 | **Leadership** | Leading engineering team at Sakneen's real estate platform |
 | **Open Source** | Created NPM packages: [error-handler](https://www.npmjs.com/package/error-handler) & TOTP |
-| **Education** | Bachelor in Computer Science - Cairo University |
+| **Education** | Bachelor in Computer Science - Minya University |
 | **Experience** | 9+ years building production-grade applications |
 
 </div>
