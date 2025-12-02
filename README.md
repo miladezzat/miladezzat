@@ -15,7 +15,7 @@ You can say, A Software Engineer with industry experience building web services
 * DevOps: AWS services (EC2, Lambda function, SNS, SQS, EventBridge, Step Function),  CI/CD, Docker, Kubernetes, GCP.
 
 ### Find Me
-#### Blog Post: [https://milad-ezzat.vercel.app/](https://milad-ezzat.vercel.app/)
+#### Blog Post: [https://milad-fahmy.vercel.app/](https://milad-fahmy.vercel.app/)
 #### NodeJs Course: [https://miladezzat.github.io](https://miladezzat.github.io)
 ### Medium: [https://medium.com/@miladezzat](https://medium.com/@miladezzat)
 
