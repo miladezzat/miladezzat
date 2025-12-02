@@ -18,24 +18,52 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## 🎯 About Me
 
-```javascript
-const milad = {
-    role: "Head of Engineering",
-    company: "Sakneen",
-    location: "Cairo, Egypt 🇪🇬",
-    experience: "9+ years",
-    specialization: [
-        "Leading Technical Teams",
-        "Cloud Infrastructure (GCP + Kubernetes)",
-        "Scalable REST API Design",
-        "Agile/Scrum Development"
-    ],
-    currentFocus: "Real Estate Market Place & Dashboard",
-    languages: ["Arabic (Native)", "English (Fluent)"]
+<div>
+
+```typescript
+interface Engineer {
+  name: string;
+  role: string;
+  company: string;
+  location: string;
+  experience: string;
+  expertise: string[];
+  passions: string[];
+}
+
+const milad: Engineer = {
+  name: "Milad Ezzat",
+  role: "Head of Engineering",
+  company: "Sakneen (Real Estate Platform)",
+  location: "Cairo, Egypt 🇪🇬",
+  experience: "9+ years",
+  
+  expertise: [
+    "🎯 Team Leadership & Mentorship",
+    "☁️ Cloud Architecture (GCP + K8s)",
+    "🏗️ Scalable REST API Design",
+    "🔄 CI/CD & DevOps Practices",
+    "📊 Agile/Scrum Methodologies"
+  ],
+  
+  passions: [
+    "💻 Clean Code & Best Practices",
+    "🚀 Performance Optimization",
+    "📚 Knowledge Sharing",
+    "🤝 Open Source Contributions"
+  ]
 };
+
+console.log(`${milad.name} is ready to build amazing things! 🚀`);
 ```
+
+</div>
+
+<br clear="right"/>
 
 ---
 
@@ -134,7 +162,7 @@ const milad = {
 | **Client Success Rate** | 96% recommendations + 86% retention on Upwork |
 | **Leadership** | Leading engineering team at Sakneen's real estate platform |
 | **Open Source** | Created NPM packages: [error-handler](https://www.npmjs.com/package/error-handler) & TOTP |
-| **Education** | Bachelor in Computer Science - Minya University |
+| **Education** | Bachelor in Computer Science - Cairo University |
 | **Experience** | 9+ years building production-grade applications |
 
 </div>
