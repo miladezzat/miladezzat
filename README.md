@@ -46,7 +46,6 @@ I'm an experienced software engineer with a diverse history spanning every facet
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="45" height="45" style="margin: 10px;"/>
