@@ -231,6 +231,12 @@ Comprehensive Node.js learning resources
 
 **🚀 Open to:** Technical Leadership • Senior Engineering • Consulting • Mentorship
 
+---
+
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+![Snake animation](https://raw.githubusercontent.com/miladezzat/miladezzat/output/github-contribution-grid-snake-dark.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%"/>
 
 </div>
