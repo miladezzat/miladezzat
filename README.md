@@ -3,7 +3,7 @@
 
 # 👨‍💻 Hi There, I'm Milad Ezzat
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Head+of+Engineering+at;Full-Stack+Developer;Cloud+Architecture+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Software+Engineer;Full-Stack+Developer;Cloud+Architecture+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
 
 ### 💼 Leading Engineering Teams • 🚀 Building Scalable Platforms • ☁️ Cloud Infrastructure Expert
 
