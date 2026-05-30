@@ -3,7 +3,7 @@
 
 # 👨‍💻 Hi There, I'm Milad Ezzat
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Head+of+Engineering+at+Sakneen;Full-Stack+Developer;Cloud+Architecture+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Head+of+Engineering+at;Full-Stack+Developer;Cloud+Architecture+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
 
 ### 💼 Leading Engineering Teams • 🚀 Building Scalable Platforms • ☁️ Cloud Infrastructure Expert
 
@@ -37,8 +37,7 @@ interface Engineer {
 
 const milad: Engineer = {
   name: "Milad Ezzat",
-  role: "Head of Engineering",
-  company: "Sakneen (Real Estate Platform)",
+  role: "Software Engineer",
   location: "Cairo, Egypt 🇪🇬",
   experience: "9+ years",
   
@@ -71,16 +70,6 @@ console.log(`${milad.name} is ready to build amazing things! 🚀`);
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏢 At Sakneen
-- 👥 Leading engineering team
-- ☁️ Managing GCP/Kubernetes infrastructure  
-- 🏗️ Designing scalable REST APIs (NestJS)
-- 🔄 Implementing CI/CD pipelines
-- 📊 Driving agile development & sprints
-
-</td>
 <td width="50%">
 
 ### 🌟 Side Projects
@@ -160,7 +149,6 @@ console.log(`${milad.name} is ready to build amazing things! 🚀`);
 | 🎯 Achievement | 📊 Impact |
 |:---|:---|
 | **Client Success Rate** | 96% recommendations + 86% retention on Upwork |
-| **Leadership** | Leading engineering team at Sakneen's real estate platform |
 | **Open Source** | Created NPM packages: [error-handler](https://www.npmjs.com/package/error-handler) & TOTP |
 | **Education** | Bachelor in Computer Science - Cairo University |
 | **Experience** | 9+ years building production-grade applications |
