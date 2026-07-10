@@ -1,230 +1,114 @@
-
 <div align="center">
 
-# 👨‍💻 Hi There, I'm Milad Ezzat
+# Hi, I'm Milad Ezzat 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Software+Engineer;Full-Stack+Developer;Cloud+Architecture+Expert;9%2B+Years+of+Experience" alt="Typing SVG" />
+### Head of Engineering · Backend, Platform & AI Builder
 
-### 💼 Leading Engineering Teams • 🚀 Building Scalable Platforms • ☁️ Cloud Infrastructure Expert
+I build startup products, scalable backend systems, developer tools, and production AI experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miladezzat)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@miladezzat)
-[![Website](https://img.shields.io/badge/Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://milad-fahmy.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladezzat.f@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[LinkedIn](https://www.linkedin.com/in/miladezzat) ·
+[Upwork](https://www.upwork.com/freelancers/~01f952f4aa5b6e14bb) ·
+[Medium](https://medium.com/@miladezzat) ·
+[Email](mailto:miladezzat.f@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## About Me
 
-## 🎯 About Me
+I’m a hands-on engineering leader from Cairo who enjoys designing systems, writing code, reviewing architecture, and shipping products.
 
-<div>
+I have worked across early-stage MVPs, multi-tenant SaaS platforms, backend architecture, generative AI, image and video pipelines, payments, subscriptions, credit systems, and production infrastructure.
 
-```typescript
-interface Engineer {
-  name: string;
-  role: string;
-  company: string;
-  location: string;
-  experience: string;
-  expertise: string[];
-  passions: string[];
-}
+My leadership style is technical and process-driven. I focus on architecture, production reliability, code quality, and engineering workflows built around GitHub, Linear, automation, and AI-assisted tools.
 
-const milad: Engineer = {
-  name: "Milad Ezzat",
-  role: "Software Engineer",
-  location: "Cairo, Egypt 🇪🇬",
-  experience: "9+ years",
-  
-  expertise: [
-    "🎯 Team Leadership & Mentorship",
-    "☁️ Cloud Architecture (GCP + K8s)",
-    "🏗️ Scalable REST API Design",
-    "🔄 CI/CD & DevOps Practices",
-    "📊 Agile/Scrum Methodologies"
-  ],
-  
-  passions: [
-    "💻 Clean Code & Best Practices",
-    "🚀 Performance Optimization",
-    "📚 Knowledge Sharing",
-    "🤝 Open Source Contributions"
-  ]
-};
-
-console.log(`${milad.name} is ready to build amazing things! 🚀`);
-```
-
-</div>
-
-<br clear="right"/>
+I enjoy working where product thinking, system design, and hands-on engineering meet.
 
 ---
 
-## 💼 What I'm Currently Doing
+## What I’m Exploring
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Side Projects
-- 📝 Writing technical articles
-- 🎓 Creating Node.js courses
-- 📦 Building NPM packages
-- 🎥 YouTube educational content
-- 🤝 Open source contributions
-
-</td>
-</tr>
-</table>
+- Multimodal image and video generation
+- AI evaluation and quality pipelines
+- Reliable backend and distributed systems
+- Developer tools and open-source libraries
+- Engineering workflows powered by GitHub, Linear, and AI
+- Production caching, queues, and durable workflows
 
 ---
 
-## 🛠️ Tech Arsenal
+## Featured Open Source
 
-<details open>
-<summary><b>🔧 Languages & Frameworks</b></summary>
-<br>
+### [encrypt-rsa](https://github.com/miladezzat/encrypt-rsa)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+A zero-dependency TypeScript RSA library for Node.js and browsers with a shared asynchronous API.
 
-</details>
+[View on npm →](https://www.npmjs.com/package/encrypt-rsa)
 
-<details open>
-<summary><b>💾 Databases & Storage</b></summary>
-<br>
+### [SafeCache](https://github.com/miladezzat/safecache)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+A production-safe caching framework for Node.js with mutation-aware invalidation, stampede protection, distributed coordination, fail-open behavior, and observability.
 
-</details>
+### [Hybrid ID Generator](https://github.com/miladezzat/hybrid-id-generator)
 
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
+A TypeScript library for compact, time-ordered identifiers with explicit machine or shard information.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### More Projects
 
-</details>
-
-<details open>
-<summary><b>🧪 Testing & Tools</b></summary>
-<br>
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
+- [gen-totp](https://github.com/miladezzat/gen-totp) — Configurable TOTP generation
+- [memoz](https://github.com/miladezzat/memoz) — In-memory TypeScript database with optional disk persistence
+- [npm packages](https://www.npmjs.com/~miladezzat) — My published Node.js and TypeScript packages
 
 ---
 
-## 🏆 Career Highlights
+## Technologies I Work With
 
-<div align="center">
+**Backend**
 
-| 🎯 Achievement | 📊 Impact |
-|:---|:---|
-| **Client Success Rate** | 96% recommendations + 86% retention on Upwork |
-| **Open Source** | Created NPM packages: [error-handler](https://www.npmjs.com/package/error-handler) & TOTP |
-| **Education** | Bachelor in Computer Science - Cairo University |
-| **Experience** | 9+ years building production-grade applications |
+TypeScript, Node.js, NestJS, GraphQL, REST, microservices, queues, event-driven systems, and durable workflows
 
-</div>
+**AI**
 
----
+Gemini, OpenAI, Anthropic, Mastra, fal.ai, ComfyDeploy, PixVerse, prompt engineering, and evaluation pipelines
 
-## 📊 GitHub Activity
+**Frontend**
 
-<div align="center">
+React, Next.js, React Native, Apollo, and GraphQL Codegen
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miladezzat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+**Cloud & Data**
 
-</div>
+GCP, Cloud Run, AWS, Railway, Vercel, Docker, MongoDB, PostgreSQL, Redis, BigQuery, and GitHub Actions
 
 ---
 
-## 🎓 Knowledge Sharing
+## Selected Freelance Work
 
-<table>
-<tr>
-<td align="center" width="33%">
+I occasionally take on selected backend, full-stack, and AI projects through Upwork.
 
-### 📝 Blog
-Writing technical articles and tutorials on web development
+**Top Rated Plus · 100% Job Success · 34 jobs · 2.4K+ hours**
 
-[Visit Blog →](https://milad-fahmy.vercel.app/)
+[View my Upwork profile →](https://www.upwork.com/freelancers/~01f952f4aa5b6e14bb)
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🎥 YouTube  
-Creating educational content for developers
+## How I Like to Work
 
-[Watch Videos →](https://youtube.com/@miladezzat)
-
-</td>
-<td align="center" width="33%">
-
-### 📚 Course
-Comprehensive Node.js learning resources
-
-[Start Learning →](https://miladezzat.github.io)
-
-</td>
-</tr>
-</table>
+- Start with the customer and product problem
+- Build the smallest useful version
+- Measure what happens in production
+- Improve architecture as the product becomes clearer
+- Automate repetitive engineering work
+- Keep ownership close to the people writing the code
 
 ---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+### Let’s build something useful.
 
-### 💬 Let's Connect and Build Something Amazing!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miladezzat)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@miladezzat)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladezzat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladezzat.f@gmail.com)
-
----
-
-### 💡 *"Clean code always looks like it was written by someone who cares."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=miladezzat&color=0891b2&style=for-the-badge)
-
-**🚀 Open to:** Technical Leadership • Senior Engineering • Consulting • Mentorship
-
----
-
-### 🐍 Watch my contribution graph get eaten by a snake!
-
-![Snake animation](https://raw.githubusercontent.com/miladezzat/miladezzat/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/miladezzat) ·
+[GitHub](https://github.com/miladezzat) ·
+[Email](mailto:miladezzat.f@gmail.com)
 
 </div>
