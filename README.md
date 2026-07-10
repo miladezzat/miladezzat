@@ -17,7 +17,7 @@ I build startup products, scalable backend systems, developer tools, and product
 
 ## About Me
 
-I’m a hands-on engineering leader from Cairo who enjoys designing systems, writing code, reviewing architecture, and shipping products.
+I'm a hands-on engineering leader from Cairo who enjoys designing systems, writing code, reviewing architecture, and shipping products.
 
 I have worked across early-stage MVPs, multi-tenant SaaS platforms, backend architecture, generative AI, image and video pipelines, payments, subscriptions, credit systems, and production infrastructure.
 
@@ -27,7 +27,7 @@ I enjoy working where product thinking, system design, and hands-on engineering 
 
 ---
 
-## What I’m Exploring
+## Current Focus
 
 - Multimodal image and video generation
 - AI evaluation and quality pipelines
@@ -42,21 +42,28 @@ I enjoy working where product thinking, system design, and hands-on engineering 
 
 ### [encrypt-rsa](https://github.com/miladezzat/encrypt-rsa)
 
+[![npm version](https://img.shields.io/npm/v/encrypt-rsa?label=npm)](https://www.npmjs.com/package/encrypt-rsa)
+[![weekly downloads](https://img.shields.io/npm/dw/encrypt-rsa?label=weekly%20downloads)](https://www.npmjs.com/package/encrypt-rsa)
+[![license](https://img.shields.io/npm/l/encrypt-rsa)](https://github.com/miladezzat/encrypt-rsa)
+
 A zero-dependency TypeScript RSA library for Node.js and browsers with a shared asynchronous API.
 
-[View on npm →](https://www.npmjs.com/package/encrypt-rsa)
-
 ### [SafeCache](https://github.com/miladezzat/safecache)
+
+[![npm version](https://img.shields.io/npm/v/@safecache/core?label=npm)](https://www.npmjs.com/package/@safecache/core)
 
 A production-safe caching framework for Node.js with mutation-aware invalidation, stampede protection, distributed coordination, fail-open behavior, and observability.
 
 ### [Hybrid ID Generator](https://github.com/miladezzat/hybrid-id-generator)
 
+[![npm version](https://img.shields.io/npm/v/hybrid-id-generator?label=npm)](https://www.npmjs.com/package/hybrid-id-generator)
+[![weekly downloads](https://img.shields.io/npm/dw/hybrid-id-generator?label=weekly%20downloads)](https://www.npmjs.com/package/hybrid-id-generator)
+
 A TypeScript library for compact, time-ordered identifiers with explicit machine or shard information.
 
 ### More Projects
 
-- [gen-totp](https://github.com/miladezzat/gen-totp) — Configurable TOTP generation
+- [gen-totp](https://github.com/miladezzat/gen-totp) — Configurable TOTP generation for Node.js
 - [memoz](https://github.com/miladezzat/memoz) — In-memory TypeScript database with optional disk persistence
 - [npm packages](https://www.npmjs.com/~miladezzat) — My published Node.js and TypeScript packages
 
@@ -64,21 +71,10 @@ A TypeScript library for compact, time-ordered identifiers with explicit machine
 
 ## Technologies I Work With
 
-**Backend**
-
-TypeScript, Node.js, NestJS, GraphQL, REST, microservices, queues, event-driven systems, and durable workflows
-
-**AI**
-
-Gemini, OpenAI, Anthropic, Mastra, fal.ai, ComfyDeploy, PixVerse, prompt engineering, and evaluation pipelines
-
-**Frontend**
-
-React, Next.js, React Native, Apollo, and GraphQL Codegen
-
-**Cloud & Data**
-
-GCP, Cloud Run, AWS, Railway, Vercel, Docker, MongoDB, PostgreSQL, Redis, BigQuery, and GitHub Actions
+- **Backend:** TypeScript, Node.js, NestJS, GraphQL, REST, microservices, queues, event-driven systems, and durable workflows
+- **AI:** Gemini, OpenAI, Anthropic, Mastra, fal.ai, ComfyDeploy, PixVerse, prompt engineering, and evaluation pipelines
+- **Frontend:** React, Next.js, React Native, Apollo, and GraphQL Codegen
+- **Cloud & Data:** GCP, Cloud Run, AWS, Railway, Vercel, Docker, MongoDB, PostgreSQL, Redis, BigQuery, and GitHub Actions
 
 ---
 
@@ -86,7 +82,7 @@ GCP, Cloud Run, AWS, Railway, Vercel, Docker, MongoDB, PostgreSQL, Redis, BigQue
 
 I occasionally take on selected backend, full-stack, and AI projects through Upwork.
 
-**Top Rated Plus · 100% Job Success · 34 jobs · 2.4K+ hours**
+**Top Rated Plus · 100% Job Success · $80K+ earned · 34 jobs · 2.4K+ hours**
 
 [View my Upwork profile →](https://www.upwork.com/freelancers/~01f952f4aa5b6e14bb)
 
@@ -105,7 +101,7 @@ I occasionally take on selected backend, full-stack, and AI projects through Upw
 
 <div align="center">
 
-### Let’s build something useful.
+### Let's build something useful.
 
 [LinkedIn](https://www.linkedin.com/in/miladezzat) ·
 [GitHub](https://github.com/miladezzat) ·
